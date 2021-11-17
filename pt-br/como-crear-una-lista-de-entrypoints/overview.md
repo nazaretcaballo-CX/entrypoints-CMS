@@ -59,7 +59,7 @@ Use o controle **LIGHT/DARK** para simular a visualização em *dark mode* ou em
 
 {% hint style="warning" %} Tenha em mente que esta é apenas uma vista prévia que pretende dar uma ideia de como o conteúdo será exibido. Observe que, nesta fase, não há informações reais sobre quais entry points você incluirá ou quaisquer outros dados.
 
-En el último paso, destinado precisamente a la vista previa y resumen de la configuración de la lista ya puedes tener una imagen más fiel de cómo se visualizará el contenido. Aún así, lo más recomendable es hagas un [test](../como-hacer-un-test.md) antes de publicar el contenido para cerciorarte de que todo está según necesitas. {% endhint %}
+No último passo, destinado precisamente à visualização e ao resumo da configuração da lista, você já pode ter uma imagem mais precisa de como o conteúdo será exibido. Mesmo assim, é melhor fazer um [test](../como-hacer-un-test.md) antes de publicar o conteúdo para ter certeza de que tudo está como você precisa. {% endhint %}
 
 ![](../.gitbook/assets/preview_step2.gif)
 
