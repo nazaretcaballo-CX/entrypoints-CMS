@@ -16,8 +16,7 @@ Preencha os campos:
 
 Todas as target page disponíveis são exibidas (não apenas as da página inicial)
 
-**List id**. Este campo se autorrellena en base al valor que indiques en el campo *List name*.
- Puedes editarlo pero no es recomendable.
+**List id**. Este campo se preencherá automaticamente com base no valor inserido no campo *List name*.<br>É possível a sua edição, mas não é recomendável.
 
 {% hint style="warning" %} O **List id** só pode ser editado quando você está criando o entry point, mas não quando ele já está criado. Portanto, certifique-se de que o **List id** responde a suas necessidades. {% endhint %}
 
