@@ -24,11 +24,9 @@ Para cada entrypoint, preencha os seguintes campos:
 
 ![](.gitbook/assets/entrypoint_creacion.png)
 
-**Icon default.** Icono asociado al entrypoint, que se muestra cuando los entrypoints se muestran en modo lista. Haz clic en **Set **:outbox_tray: para añadir un icono.
- :low_brightness: Es obligatorio.
+**Icon default.** Ícone vinculado ao entrypoint, que é exibido quando os entrypoints são apresentados em modo lista. Clique em **Set** :outbox_tray: para adicionar um ícone.<br> :low_brightness: É obrigatório.
 
-**Icon dark**. Versión para *dark mode* del icono asociado al entrypoint. Haz clic en Haz clic en **Set **:outbox_tray: para añadir un icono.
- :low_brightness: Es opcional. Si no lo incluyes entonces se usará la versión default también en *dark mode*.
+**Icon dark**. Versão para *dark mode* do ícone vinculado ao entrypoint. Clique em Clique em **Set** :outbox_tray: para adicionar um ícone.<br> :low_brightness: É opcional. Se você não incluir, então a versão default também será utilizada em *dark mode*.
 
 {% hint style="warning" %} Note que este campo de ícones só é exibido se requerido pela OB.
 
@@ -41,10 +39,9 @@ Para cada entrypoint, preencha os seguintes campos:
 
 *Por exemplo:*
 
-**:thumbsup:* Programar cita en tienda*
- **:thumbsdown:* ProgramarCitaTiendaV1* {% endhint %}
+ **:thumbsup:* Programar encontro na loja*<br> **:thumbsdown:* ProgramarEncontroLojaV1* {% endhint %}
 
-**Entrypoint display name**. Nombre del entrypoint que se ve en la app. Este nombre **sí **lo ve el usuario.
+**Entrypoint display name**. Nome do entrypoint visto no app. Este nome **sim** é visto pelo usuário.
 
 **Entrypoint ID**. É construído de maneira automática com base no Entrypoint internal name, mas você pode fazer alterações em caso necessário.
 
@@ -56,9 +53,8 @@ Abra esta seção para adicionar as imagens do entrypoint que está criando. Sã
 
 Você tem a opção de incluir duas imagens:
 
-- Hac clic en **Set image **:outbox_tray: para añadir la imagen que se mostrará en el carrusel por defecto.
-- Haz clic en **Set dark imagen **:outbox_tray: para añadir la imagen que se mostrará en el carrousel en modo noche o *dark mode*.
-     :low_brightness: Si no la incluyes entonces se mostrará la imagen que incluyas para el modo por defecto.
+- Clique em <strong>Set image</strong>: outbox_tray: para adicionar a imagem que será exibida no carrusel de maneira predeterminada.
+- Clique em <strong>Set dark imagen</strong> :outbox_tray: para adicionar a imagem que será exibida no carrousel no modo noite ou *dark mode*.<br> :low_brightness: Se você não a incluir, então, a imagem incluída para o modo predeterminado será exibida.
 
 ![](.gitbook/assets/carousel_images.png)
 
@@ -145,6 +141,6 @@ Clique na linha do entrypoint que deseja editar. A janela de criação/edição 
 
 Ao realizar mudanças você poderá:
 
-- Guardar los campos pero no publicarlos: clic en** Save and unpublish.**
+- Salvar os campos, mas não publicá-los: clique em <strong>Save and unpublish</strong>.
 - Salvar as mudanças e publicá-las: clique em **Save and publish**.
-- Iniciar un test: haz clic en **Save and test**
+- Iniciar um teste: clique em **Save and test**.
