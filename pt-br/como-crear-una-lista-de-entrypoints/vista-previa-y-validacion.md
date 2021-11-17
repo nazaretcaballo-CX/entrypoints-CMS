@@ -17,7 +17,7 @@ Use a opção ![](../.gitbook/assets/Add_use_case.png) para adicionar públicos 
 
 Use a opção ![](../.gitbook/assets/remove_use_case.png) para eliminar e público e, portanto, não simular esse caso de uso.
 
-En este último paso haz clic en Save and p**ublish **para publicar la lista que acabas de configurar.
+Neste último passo, clique em <strong>Save and publish</strong> para publicar a lista que acabou de configurar.
 
 Você também pode clicar em Save para salvar as mudanças e deixar a lista no modo de rascunho, no estado DRAFT. Então, pode iniciar um teste para ver como estão as mudanças antes de publicá-las e o impacto em uma grande massa de usuários.
 
