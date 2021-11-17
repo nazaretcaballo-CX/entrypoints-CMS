@@ -7,7 +7,7 @@ description: Passo 3 de criação de uma lista de entry points
 Este **passo é opcional** e, portanto, só é necessário se a lista que você está criando exigir algumas das seguintes características:
 
 - **Ordenar** de forma diferente os entry points **em função dos públicos**, isto é, ordenar segundo os diferentes tipos de usuário.
-- **Agrupar** los entry points **por Categorías**, es decir, si la lista de entry points tiene que aparecer** **dividida en categorías en la página de vista completa (la que aparece cuando el usuario hace clic en **"Otros servicios"**)
+- **Agrupar** os entry points **em Categorias**, isto é, se a lista de entry points deve aparecer dividida em categorias na página de vista completa (que aparece quando o usuário clica em **"Outros serviços"**)
 
 Para criar categorias ou ordens diferentes, clique em **Add categories and custom sorting**.
 
