@@ -17,7 +17,7 @@ Use the option![](../.gitbook/assets/Add_use_case.png) to add audiences and move
 
 Use the option![](../.gitbook/assets/remove_use_case.png) to remove an audience and not simulate that use case.
 
-En este último paso haz clic en Save and p**ublish **para publicar la lista que acabas de configurar.
+In this last step, click <strong>Save and publish</strong> to publish the list that you have just configured.
 
 You can also click Save to save the changes and leave the list in a DRAFT state. At this point, you can run a test to see how the changes will appear before publishing them and impacting a large number of users.
 
