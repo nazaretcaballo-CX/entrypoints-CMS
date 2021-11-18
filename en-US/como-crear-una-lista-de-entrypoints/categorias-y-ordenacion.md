@@ -22,7 +22,7 @@ If the list you are creating does not require any of the above, skip this step a
 
 Follow these steps to configure each personalization:
 
-1. Enter a name for your personalization in the **New personalization**&nbsp;field and click** Add personalization**.
+1. Enter a name for your personalization in the **New personalization**&nbsp;field and click **Add personalization**.
 2. Select the audience for that personalization in the **Select your audience** drop-down menu.
 3. Sort the entry points for that audience
 
