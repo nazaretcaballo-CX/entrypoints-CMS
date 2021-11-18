@@ -33,13 +33,13 @@ For each entry point, fill in the following fields:
 - If you do not see this field in the CMS, the entry points are not accompanied by icons in any case.
 - If you do see this field in the CMS, you need to add the **Default icon** at least. {% endhint %}
 
-**Entry point internal name**. Enter a name that describes the entry point you are creating to make it easier for you to locate it later. This name is not displayed to users.<br> : low_brightness: The name can contain both uppercase and lowercase letters, numbers, and spaces, but other characters such as underscores, accents, or other special characters are not allowed.
+**Entry point internal name**. Enter a name that describes the entry point you are creating to make it easier for you to locate it later. This name is not displayed to users.<br> :low_brightness: The name can contain both uppercase and lowercase letters, numbers, and spaces, but other characters such as underscores, accents, or other special characters are not allowed.
 
-{% hint style = "success"%}: nerd: When you enter the internal name, think naturally about what to call it so that anyone who sees it will understand what that entry point represents.
+{% hint style = "success" %} :nerd: When you enter the internal name, think naturally about what to call it so that anyone who sees it will understand what that entry point represents.
 
 *Example:*
 
-**: thumbsup:* Schedule in-store appointment*<br> **: thumbsdown:* ScheduleStoreAppointmentV1* {% endhint%}
+**:thumbsup:* Schedule in-store appointment*<br> **:thumbsdown:* ScheduleStoreAppointmentV1* {% endhint %}
 
 **Entry point display name**. Name of the entry point that is seen in the app. This name **is** seen by the user.
 
@@ -54,11 +54,11 @@ Expand this section to add the images of the entry point you are creating. These
 You have the option of including two images:
 
 - Click **Set image**: outbox_tray: to add the image to be displayed on the default carousel.
-- Click **Set dark image**: outbox_tray: to add the image that will be displayed on the carrousel in night mode or *dark mode*.<br> : low_brightness: If you don't include it, the image you include for the default mode will be shown.
+- Click **Set dark image**: outbox_tray: to add the image that will be displayed on the carrousel in night mode or *dark mode*.<br> :low_brightness: If you don't include it, the image you include for the default mode will be shown.
 
 ![](.gitbook/assets/carousel_images.png)
 
-{% hint style = "info" %}: nerd: Remember that the required image is the one in **Set image**, on the left-hand side of the page. If you only include the Dark image, you will be asked to also include the Default Image. {% endhint %}
+{% hint style = "info" %} :nerd: Remember that the required image is the one in **Set image**, on the left-hand side of the page. If you only include the Dark image, you will be asked to also include the Default Image. {% endhint %}
 
 #### **Tracking data**
 
