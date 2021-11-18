@@ -78,7 +78,7 @@ When you have made sure that the content in the **Test** tab, in all the steps, 
 
 Click **Close** to return to the main entry point lists screen, **Entry point Lists**.
 
-{% hint style = "success" %}: thumbsup: On the main screen, you can check that the **TEST** tag has disappeared in the list status. {% endhint %}
+{% hint style = "success" %} :thumbsup: On the main screen, you can check that the **TEST** tag has disappeared in the list status. {% endhint %}
 
 ### How to delete a test
 
