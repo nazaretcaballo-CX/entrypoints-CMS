@@ -22,7 +22,7 @@ It is an optional field and represents the title of the list.
 
 This optional field is the title of the page that contains the full list. This page, which contains the full list, is shown if the user has checked the **Restrict the amount of services in summary view** box and the **Show "See all" in the summary view"** box.
 
-{% hint style="info" %} Esta página es una página nueva a la que el usuario accede al hacer clic en el enlace "Otros servicios" . {% endhint %}
+{% hint style = "info" %} This is a new page that the user accesses by clicking the "Other services" link. {% endhint %}
 
 ![](../.gitbook/assets/full_list_title.gif)
 
@@ -33,9 +33,9 @@ In this section, you indicate how the entry points in the list will be displayed
 - **List**. To display the items in list mode.
 - **Carousel**. To display the items in carousel mode.
 
-{% hint style="success" %} Las listas llevarán iconos en función de la OB, es decir, hay OBs que tienen configurado que las listas admitan iconos y otras OBs tienen configurado que no se puedan añadir.
+{% hint style = "success" %} The lists will or will not have icons depending on the OB. Some OBs are configured in such a way that the lists support icons, and other OBs are configured so that they don't.
 
-Esto lo sabrás cuando [configures los entry points](../como-crear-editar-un-entrypoint.md#crear-un-entrypoint) porque si admiten iconos entonces tendrás la opción de añadirlos. {% endhint %}
+You will know this when you [configure the entry points](../como-crear-editar-un-entrypoint.md#crear-un-entrypoint), because you will have the option to add icons if they are supported. {% endhint %}
 
 ![](../.gitbook/assets/Visualization_section.png)
 
@@ -47,7 +47,7 @@ Esto lo sabrás cuando [configures los entry points](../como-crear-editar-un-ent
 
 ![](../.gitbook/assets/enlace_OtrosServicios.png)
 
-{% hint style="info" %} :wink: Lo más recomendable es que si restringes el número de elementos a mostrar de la lista entonces muestres también el enlace para que se vea la lista completa. {% endhint %}
+{% hint style = "info" %}: wink: If you restrict the number of elements to show from the list, you should display the link so that the full list can be seen. {% endhint %}
 
 ### Entry point lists preview
 
@@ -57,14 +57,14 @@ Use the **LIGHT/DARK** control to see what it will look like in *dark mode* or *
 
 ![](../.gitbook/assets/light_dark.png)
 
-{% hint style="warning" %} Ten en cuenta que es solo una vista previa que está pensada para que te hagas una idea de cómo se verá el contenido. Piensa que en este paso aún no hay información real sobre qué entry points vas a incluir ni ningún otro dato.
+{% hint style = "warning" %} Keep in mind that this is only a preview, intended to give you an idea of what the content will look like. Remember that this step doesn't yet contain any real information about which entry points you are going to include or any other data.
 
-En el último paso, destinado precisamente a la vista previa y resumen de la configuración de la lista ya puedes tener una imagen más fiel de cómo se visualizará el contenido. Aún así, lo más recomendable es hagas un [test](../como-hacer-un-test.md) antes de publicar el contenido para cerciorarte de que todo está según necesitas. {% endhint %}
+In the last step, destined precisely for the preview and summary of the list configuration, you will see a more accurate image of what the content will look like. Even so, we recommend performing a [test](../como-hacer-un-test.md) before publishing the content to make sure that everything appears as you would like it to. {% endhint %}
 
 ![](../.gitbook/assets/preview_step2.gif)
 
 Click **Continue** to continue setup and proceed to the next step.
 
-{% hint style="danger" %} **IMPORTANTE**: Ten en cuenta en todo el proceso de creación que el hecho de hacer clic en el botón **Continuar** no guarda los cambios.
+{% hint style = "danger" %} **IMPORTANT**: Keep in mind throughout the creation process that clicking the **Continue** button does not save your changes.
 
-Si necesitas guardar los cambios en este paso haz clic en **Save draft** (en la parte superior derecha). {% endhint %}
+If you need to save the changes in this step, click **Save draft** (in the upper right-hand corner). {% endhint %}
