@@ -2,7 +2,7 @@
 
 ## Create list
 
-Click the **Create list **button:
+Click the **Create list** button:
 
 ![](../.gitbook/assets/image.png)
 
