@@ -18,7 +18,7 @@ Yes, the change will be seen in all lists that contain said entry point, as long
 
 ### I'm creating a list. Despite filling in the "**Full list title" field, I don't see it in the "Services" preview in Step 2. What is going on?**
 
-The preview in step 2 shows the list as the user will see it within a page. This title represents the name of the page that the user sees., for example, when the **Show "See all" in the summary view** option is activated and the user clicks on "Other services".
+The preview in step 2 shows the list as the user will see it within a page. This title represents the name of the page that the user sees, for example, when the **Show "See all" in the summary view** option is activated and the user clicks on "Other services".
 
 Take a look at this simple example, which is sure to help you:
 
