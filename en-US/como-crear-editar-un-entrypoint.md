@@ -81,7 +81,7 @@ Configure this section to indicate which URL the entry point leads to when the u
 - **Pre-configured**. Select this option to select a fixed, pre-configured URL. Click Pre-configured URL data to select a URL from the available ones. When you do, you can check (but not edit) the **URL** and provider, which is displayed in the **For** field.
 - **Custom**. Select this option to manually add a URL.
 
-![Ejemplo de Preconfigured URL y de Custom URL](.gitbook/assets/AddURL_Entrypoints.png)
+![Example of Preconfigured URL and Custom URL](.gitbook/assets/AddURL_Entrypoints.png)
 
 Click the Add URL (optional) drop-down menu again and select to add URLs based on audiences.
 
