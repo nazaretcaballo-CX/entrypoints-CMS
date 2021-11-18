@@ -4,7 +4,7 @@ Access the list CMS from the Entry Point List side menu.
 
 ![](.gitbook/assets/entrypoint_list_menu_lateral.png)
 
-{% hint style="info" %} Si no tienes acceso consulta con el OBPM de TCX, para que pueda gestionarlo. {% endhint %}
+{% hint style = "info" %} If you don't have access, ask the TCX OBPM for permission. {% endhint%}
 
 The list CMS, or entry point list CMS, has two main parts:
 
