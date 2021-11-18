@@ -8,9 +8,9 @@ It is important that you bear in mind that an entry point has its own entity; in
 
 A user will never see an entry point that they are not supposed to see, as long as said entry point is correctly configured.
 
-{% hint style = "success"%} Example:
+{% hint style = "success" %} Example:
 
-*Alice is a user of an Android device. Alice will never see an entry point that is configured to be viewed by only iOS users.* {% endhint%}
+*Alice is a user of an Android device. Alice will never see an entry point that is configured to be viewed by only iOS users.* {% endhint %}
 
 ## Creating an entry point
 
@@ -58,7 +58,7 @@ You have the option of including two images:
 
 ![](.gitbook/assets/carousel_images.png)
 
-{% hint style = "info"%}: nerd: Remember that the required image is the one in **Set image**, on the left-hand side of the page. If you only include the Dark image, you will be asked to also include the Default Image. {% endhint%}
+{% hint style = "info" %}: nerd: Remember that the required image is the one in **Set image**, on the left-hand side of the page. If you only include the Dark image, you will be asked to also include the Default Image. {% endhint %}
 
 #### **Tracking data**
 
@@ -95,7 +95,7 @@ The system reads from top to bottom. In other words, it will show the user the U
 
 Once you configure all the URLs you can sort them by *drag &amp; drop*.
 
-{% hint style = "success"%} Example:
+{% hint style = "success" %} Example:
 
 🥇You have configured a URL for the `sport-lovers` audience. This URL leads to a promo on some new sports channels.
 
@@ -137,10 +137,10 @@ Click the **Save draft** button to save your changes without publishing them. Yo
 
 Click on the row of the entry point you want to edit. The entry point creation/editing window will open up. Make the changes you need.
 
-{% hint style = "warning"%} Remember that there are two fields that you cannot edit: the **Internal name** field and the **ID** field {% endhint%}
+{% hint style = "warning" %} Remember that there are two fields that you cannot edit: the **Internal name** field and the **ID** field {% endhint %}
 
 When you make changes, you can:
 
 - Save the fields but not publish them: click **Save and unpublish.**
 - Save changes and publish them: Click **Save and publish**.
-- Start a test: click **Save and test**
+- Start a test: click **Save and test**.
