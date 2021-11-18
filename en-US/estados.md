@@ -8,7 +8,7 @@ It is important for you to know the states in which the lists and entry points c
 
 **PUBLISHED**. The user will see the entry point as long as it is configured for an audience that includes the user and within a list that is also published.
 
-{% hint style="warning" %} Recuerda que un entrypoint puede estar en diferentes listas y para que se vea tiene que estar publicado. Pero el el hecho de que el entrypoint esté en estado **PUBLISHED** no significa que se vaya a ver. Eso depende del estado en que esté la lista o las listas que lo contengan y las audiencias configuradas en esas listas. {% endhint %}
+{% hint style = "warning" %} Remember that entry points can be found in different lists, and that to be seen it has to be published. However, the fact that the entry point is in **PUBLISHED** state does not mean that it will be seen. This will depend on the state of the list(s) that contain it and the audiences configured in those lists. {% endhint %}
 
 **PAUSED**. Unpublished state. The entry point has been published at some point but it is no longer published. It cannot be viewed by any user.
 
