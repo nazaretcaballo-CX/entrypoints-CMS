@@ -20,7 +20,7 @@ The option to create a test is shown when changes are made i.e. when there is so
 
 - If the list is in draft mode, the test option is shown when saving the changes but without publishing them. Click **Test** to create a test for that list.
 
-{% hint style="warning" %} Ten en cuenta que si creas un test cuando la lista está en modo **DRAFT** entonces la lista pasa automáticamente a estado **PAUSED**. {% endhint %}
+{% hint style = "warning" %} Note that if you create a test when the list is in **DRAFT** mode, the list automatically changes to **PAUSED** state. {% endhint %}
 
 - If the list is published or paused, the test option is shown when you make changes to that list. In that case, click **Save and start test** to save those changes and start a test.
 
@@ -34,13 +34,13 @@ Click **Create test**.
 
 ![](.gitbook/assets/Create_test.png)
 
-{% hint style="info" %} **Cómo obtener el user ID**
+{% hint style = "info" %} **How to get the user ID**
 
 1. Make sure you have the Enterprise version of the app downloaded.
 2. Open the app
 3. Shake the phone
 4. Access the "Authentication" section
-5. el número que necesitas es el del campo **User ID** {% endhint %}
+5. the number you need is the one in the **User ID** field {% endhint %}
 
 #### Testing an entry point
 
@@ -70,7 +70,7 @@ When you open the list, the content appears divided into two tabs. This allows y
 
  
 
-{% hint style="warning" %} Solo puedes hacer cambios en el contenido si estás en la pestaña **Test**. Usa la otra pestaña para ver el contenido previo a los cambios que has hecho para el test.  {% endhint %}
+{% hint style = "warning" %} You can only make changes to the content if you are in the **Test** tab. Use the other tab to see the content prior to the changes that you made for the test. {% endhint %}
 
 When you have made sure that the content in the **Test** tab, in all the steps, is the content you want to apply, click **Publish**. Click **Yes** when the confirmation message appears.
 
@@ -78,7 +78,7 @@ When you have made sure that the content in the **Test** tab, in all the steps, 
 
 Click **Close** to return to the main entry point lists screen, **Entry point Lists**.
 
-{% hint style="success" %} :thumbsup:En la pantalla principal puedes comprobar que en el estado de la lista ha desaparecido la etiqueta **TEST**. {% endhint %}
+{% hint style = "success" %}: thumbsup: On the main screen, you can check that the **TEST** tag has disappeared in the list status. {% endhint %}
 
 ### How to delete a test
 
