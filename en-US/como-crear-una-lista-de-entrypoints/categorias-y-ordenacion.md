@@ -7,7 +7,7 @@ description: Step 3 of creating an entry point list
 This **step is optional**. Therefore, you will only need it if the list you are creating requires any of the following:
 
 - **Sort** entry points differently **according to the audience**. In other words, sort them based on the different types of user.
-- **Agrupar** los entry points **por Categorías**, es decir, si la lista de entry points tiene que aparecer** **dividida en categorías en la página de vista completa (la que aparece cuando el usuario hace clic en **"Otros servicios"**)
+- **Group** entry points **by Categories**. In other words, if the list of entry points needs to appear divided into categories on the full-view page (the one that appears when the user clicks on **"Other services"**)
 
 To add categories or custom sorting options, click on **Add categories and custom sorting**.
 
@@ -15,10 +15,10 @@ If the list you are creating does not require any of the above, skip this step a
 
 ## New personalization
 
-{% hint style="warning" %} **IMPORTANTE**: Si creas varias personalizaciones entonces se seleccionará la primera personalización que coincida con la audiencia, según el orden en que has creado las personalizaciones (de arriba abajo). Si no hay ninguna que coincida entonces:
+{% hint style = "warning" %} **IMPORTANT**: If you create multiple personalizations, the first personalization that matches the audience will be selected, according to the order in which you created them (from top to bottom). If none of them match, then:
 
 - The default sorting option indicated in step 2 (**Services**) will be used
-- Se genera una lista simple sin categorías {% endhint %}
+- A simple list is generated without categories {% endhint %}
 
 Follow these steps to configure each personalization:
 
@@ -32,7 +32,7 @@ When you have created the personalizations that you need, you can simply order t
 
 To edit any of the personalizations, select them by clicking on their name and changing the audience, the categories and/or the order of the entry points.
 
-Para borrar una personalización haz clic en el icono ![](../.gitbook/assets/icono_borrar.png) en el nombre de la personalización.
+To delete a personalization, click on the icon ![](../.gitbook/assets/icono_borrar.png) in the name of the personalization.
 
 ### Order and categories
 
@@ -50,6 +50,6 @@ To delete a category, click![](../.gitbook/assets/icono_borrar.png) in the categ
 
 Click **Continue** to continue the set-up and proceed to the next step.
 
-{% hint style="danger" %} **IMPORTANTE**: Ten en cuenta en todo el proceso de creación que el hecho de hacer clic en el botón **Continuar** no guarda los cambios.
+{% hint style = "danger" %} **IMPORTANT**: Keep in mind throughout the creation process that clicking the **Continue** button does not save your changes.
 
-Si necesitas guardar los cambios en este paso haz clic en **Save draft** (en la parte superior derecha). {% endhint %}
+If you need to save the changes in this step, click **Save draft** (in the upper right-hand corner). {% endhint%}
