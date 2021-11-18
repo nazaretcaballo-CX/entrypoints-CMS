@@ -24,9 +24,9 @@ For each entry point, fill in the following fields:
 
 ![](.gitbook/assets/entrypoint_creacion.png)
 
-**Default icon.** Icon associated with the entry point, which is shown when the entry points are shown in list mode. Click **Set**: outbox_tray: to add an icon.<br> : low_brightness: This is required.
+**Default icon.** Icon associated with the entry point, which is shown when the entry points are shown in list mode. Click **Set** :outbox_tray: to add an icon.<br> :low_brightness: This is required.
 
-**Dark icon** . *Dark mode* version of the icon associated with the entry point. Click **Set**: outbox_tray: to add an icon.<br> : low_brightness: This is optional. If you don't include it at this point, the default version will also be used in *dark mode*.
+**Dark icon** . *Dark mode* version of the icon associated with the entry point. Click **Set** :outbox_tray: to add an icon.<br> :low_brightness: This is optional. If you don't include it at this point, the default version will also be used in *dark mode*.
 
 {% hint style = "warning" %} Note that this icon field is only shown if the OB requires it.
 
@@ -49,12 +49,12 @@ For each entry point, fill in the following fields:
 
 #### **Carousel images**
 
-Expand this section to add the images of the entry point you are creating. These are the images that are displayed when the list is configured to display in carousel mode.<br> : low_brightness: These images are not mandatory and are only shown if you are configuring Carousel view mode in the list. If you do not include images, an image with the base color of the OB will be shown.
+Expand this section to add the images of the entry point you are creating. These are the images that are displayed when the list is configured to display in carousel mode.<br> :low_brightness: These images are not mandatory and are only shown if you are configuring Carousel view mode in the list. If you do not include images, an image with the base color of the OB will be shown.
 
 You have the option of including two images:
 
-- Click **Set image**: outbox_tray: to add the image to be displayed on the default carousel.
-- Click **Set dark image**: outbox_tray: to add the image that will be displayed on the carrousel in night mode or *dark mode*.<br> :low_brightness: If you don't include it, the image you include for the default mode will be shown.
+- Click **Set image** :outbox_tray: to add the image to be displayed on the default carousel.
+- Click **Set dark image** :outbox_tray: to add the image that will be displayed on the carrousel in night mode or *dark mode*.<br> :low_brightness: If you don't include it, the image you include for the default mode will be shown.
 
 ![](.gitbook/assets/carousel_images.png)
 
@@ -62,7 +62,7 @@ You have the option of including two images:
 
 #### **Tracking data**
 
-Information related to entry point tracking. The entry point tracking URL is comprised by the sum of these fields.<br> : low_brightness: All fields are optional
+Information related to entry point tracking. The entry point tracking URL is comprised by the sum of these fields.<br> :low_brightness: All fields are optional
 
 **Category (optional)**. Category of the entry point.
 
