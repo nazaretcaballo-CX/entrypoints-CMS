@@ -14,7 +14,7 @@ You will be able to view the information about the entry point before confirming
 
 ### How to change the order of entry points in the list
 
-El orden en que se muestran en este paso los entry points es el mismo orden en el que se mostrarán al usuario. Si necesitas cambiar el orden usa la función _Drag&amp;Drop: _simplemente arrastra y suelta a la posición deseada.
+The order in which the entry points are shown in this step is the same order in which they will be shown to the user. If you need to change the order, use <em>drag &amp; drop</em>: to simply move them to the desired position.
 
 ![](../.gitbook/assets/Drag&Drop.gif)
 
@@ -38,6 +38,6 @@ In the **AUDIENCES** column you can see the information about the audiences of a
 
 Click **Continue** to continue the set-up and proceed to the next step.
 
-{% hint style="danger" %} **IMPORTANTE**: Ten en cuenta en todo el proceso de creación que el hecho de hacer clic en el botón **Continuar** no guarda los cambios.
+{% hint style = "danger" %} **IMPORTANT**: Keep in mind throughout the creation process that clicking the **Continue** button does not save your changes.
 
-Si necesitas guardar los cambios en este paso haz clic en **Save draft** (en la parte superior derecha). {% endhint %}
+If you need to save the changes in this step, click **Save draft** (in the upper right-hand corner). {% endhint %}
