@@ -16,7 +16,7 @@ From the list of entry points, click on the row of the entry point you want to e
 
 Yes, the change will be seen in all lists that contain said entry point, as long as it is in a list that is visible to the user.
 
-### I'm creating a list. Despite filling in the "**Full list title"** field, I don't see it in the "Services" preview in Step 2**. What is going on?**
+### I'm creating a list. Despite filling in the "**Full list title"** field, I don't see it in the "Services" preview in Step 2. What is going on?**
 
 The preview in step 2 shows the list as the user will see it within a page. This title represents the name of the page that the user sees., for example, when the **Show "See all" in the summary view** option is activated and the user clicks on "Other services".
 
