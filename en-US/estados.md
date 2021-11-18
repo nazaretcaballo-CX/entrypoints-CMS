@@ -18,7 +18,7 @@ It is important for you to know the states in which the lists and entry points c
 
 Here is a small diagram which depicts how you can transition from one state to another.
 
-![Cómo transiciona un entrypoint de un estado a otro en función del estado de inicio ](.gitbook/assets/Estados_entrypoint.png)
+![Cómo transiciona un entrypoint de un estado a otro en función del estado de inicio ](https://github.com/nazaretcaballo-CX/entrypoints-CMS/blob/ES/en-US/.gitbook/assets/Estados_entrypoint.png?raw=true)
 
 ### Lists
 
