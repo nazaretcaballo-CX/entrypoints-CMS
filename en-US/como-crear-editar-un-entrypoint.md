@@ -28,10 +28,10 @@ For each entry point, fill in the following fields:
 
 **Dark icon** . *Dark mode* version of the icon associated with the entry point. Click **Set**: outbox_tray: to add an icon.<br> : low_brightness: This is optional. If you don't include it at this point, the default version will also be used in *dark mode*.
 
-{% hint style = "warning"%} Note that this icon field is only shown if the OB requires it.
+{% hint style = "warning" %} Note that this icon field is only shown if the OB requires it.
 
 - If you do not see this field in the CMS, the entry points are not accompanied by icons in any case.
-- If you do see this field in the CMS, you need to add the **Default icon** at least. {% endhint%}
+- If you do see this field in the CMS, you need to add the **Default icon** at least. {% endhint %}
 
 **Entry point internal name**. Enter a name that describes the entry point you are creating to make it easier for you to locate it later. This name is not displayed to users.<br> : low_brightness: The name can contain both uppercase and lowercase letters, numbers, and spaces, but other characters such as underscores, accents, or other special characters are not allowed.
 
